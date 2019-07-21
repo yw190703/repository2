@@ -8,4 +8,6 @@ package com.wangyu.dao;
  */
 public interface IAccountDao {
     void saveAccount();
+    
+    system.out.print("hello git")
 }
